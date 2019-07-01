@@ -1,0 +1,1 @@
+Test project created in .NET Platform to to know the working and fetching of data from Fitbit,Garmin.Omron and IHealth.
