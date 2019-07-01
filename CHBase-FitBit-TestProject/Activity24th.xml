@@ -1,0 +1,104 @@
+﻿<ItemList Source="FitBit">
+  <Item>
+<activities>
+  <activityId>12030</activityId>
+  <activityParentId>90009</activityParentId>
+  <activityParentName>Run</activityParentName>
+  <calories>123</calories>
+  <description>Running - 5 mph (12 min/mile)</description>
+  <distance>4.828032</distance>
+  <duration>2083000</duration>
+  <hasStartTime>true</hasStartTime>
+  <isFavorite>false</isFavorite>
+  <lastModified>2018-04-24T10:14:20.000Z</lastModified>
+  <logId>13750490061</logId>
+  <name>Run</name>
+  <startDate>2018-04-24</startDate>
+  <startTime>06:45</startTime>
+  <steps>4222</steps>
+</activities>
+<goals>
+  <activeMinutes>30</activeMinutes>
+  <caloriesOut>2184</caloriesOut>
+  <distance>8.05</distance>
+  <floors>10</floors>
+  <steps>10000</steps>
+</goals>
+<summary>
+  <activeScore>-1</activeScore>
+  <activityCalories>318</activityCalories>
+  <caloriesBMR>1062</caloriesBMR>
+  <caloriesOut>1297</caloriesOut>
+  <distances>
+    <activity>Run</activity>
+    <distance>4.828032</distance>
+  </distances>
+  <distances>
+    <activity>total</activity>
+    <distance>5.76</distance>
+  </distances>
+  <distances>
+    <activity>tracker</activity>
+    <distance>0.93</distance>
+  </distances>
+  <distances>
+    <activity>loggedActivities</activity>
+    <distance>4.828032</distance>
+  </distances>
+  <distances>
+    <activity>veryActive</activity>
+    <distance>0</distance>
+  </distances>
+  <distances>
+    <activity>moderatelyActive</activity>
+    <distance>0</distance>
+  </distances>
+  <distances>
+    <activity>lightlyActive</activity>
+    <distance>5.76</distance>
+  </distances>
+  <distances>
+    <activity>sedentaryActive</activity>
+    <distance>0</distance>
+  </distances>
+  <elevation>3.05</elevation>
+  <fairlyActiveMinutes>0</fairlyActiveMinutes>
+  <floors>1</floors>
+  <heartRateZones>
+    <caloriesOut>355.9286</caloriesOut>
+    <max>96</max>
+    <min>30</min>
+    <minutes>191</minutes>
+    <name>Out of Range</name>
+  </heartRateZones>
+  <heartRateZones>
+    <caloriesOut>13.7372</caloriesOut>
+    <max>135</max>
+    <min>96</min>
+    <minutes>3</minutes>
+    <name>Fat Burn</name>
+  </heartRateZones>
+  <heartRateZones>
+    <caloriesOut>0</caloriesOut>
+    <max>164</max>
+    <min>135</min>
+    <minutes>0</minutes>
+    <name>Cardio</name>
+  </heartRateZones>
+  <heartRateZones>
+    <caloriesOut>0</caloriesOut>
+    <max>220</max>
+    <min>164</min>
+    <minutes>0</minutes>
+    <name>Peak</name>
+  </heartRateZones>
+  <lightlyActiveMinutes>90</lightlyActiveMinutes>
+  <marginalCalories>157</marginalCalories>
+  <restingHeartRate>64</restingHeartRate>
+  <sedentaryMinutes>854</sedentaryMinutes>
+  <steps>5606</steps>
+  <veryActiveMinutes>0</veryActiveMinutes>
+</summary>
+  </Item>
+</ItemList>
+

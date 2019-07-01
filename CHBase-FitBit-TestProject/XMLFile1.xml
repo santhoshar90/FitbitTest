@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thing xmlns:dyn="http://exslt.org/dynamic">
+  <type-id name="Food &amp; drink">089646A6-7E25-4495-AD15-3E28D4C1A71D</type-id>
+  <data-xml>
+    <dietary-intake>
+      <food-item>
+        <text>Samosa</text>
+      </food-item>
+      <meal>
+        <text>Other</text>
+        <code>
+          <value>Other</value>
+          <family>iphr-external</family>
+          <type>dietary-intake-meals</type>
+          <version>1.0</version>
+        </code>
+      </meal>
+      <when>
+        <date>
+          <y>2018</y>
+          <m>4</m>
+          <d>2</d>
+        </date>
+      </when>
+      <energy>
+        <calories>212</calories>
+      </energy>
+      <total-fat>
+        <kg>0.01221</kg>
+        <display units="g">12.21</display>
+      </total-fat>
+      <protein>
+        <kg>0.00464</kg>
+        <display units="g">4.64</display>
+      </protein>
+      <carbohydrates>
+        <kg>0.02079</kg>
+        <display units="g">20.79</display>
+      </carbohydrates>
+      <sodium>
+        <kg>0.00021</kg>
+        <display units="mg">210</display>
+      </sodium>
+      <dietary-fiber>
+        <kg>0.0009</kg>
+        <display units="g">0.9</display>
+      </dietary-fiber>
+    </dietary-intake>
+    <common>
+      <source>phr.getrealhealth.com.external.dietaryintake</source>
+      <client-thing-id></client-thing-id>
+      <extension source="">
+        <foods>
+          <isFavorite>false</isFavorite>
+          <logDate>2018-04-02</logDate>
+          <logId>13946134396</logId>
+          <loggedFood>
+            <accessLevel>PUBLIC</accessLevel>
+            <amount>1</amount>
+            <brand />
+            <calories>212</calories>
+            <foodId>532589027</foodId>
+            <locale>it_IT</locale>
+            <mealTypeId>1</mealTypeId>
+            <name>Samosa</name>
+            <unit>
+              <id>2952</id>
+              <name>porzione (61 g)</name>
+              <plural>porzione (61 g)</plural>
+            </unit>
+            <units>2952</units>
+            <units>2339</units>
+            <units>2343</units>
+            <units>226</units>
+            <units>180</units>
+            <units>147</units>
+            <units>389</units>
+          </loggedFood>
+          <nutritionalValues>
+            <calories>212</calories>
+            <carbs>20.79</carbs>
+            <fat>12.21</fat>
+            <fiber>0.9</fiber>
+            <protein>4.64</protein>
+            <sodium>210</sodium>
+          </nutritionalValues>
+        </foods>
+      </extension>
+      <extension source="phr.getrealhealth.com.external.dietaryintake">
+        <external-data-source></external-data-source>
+      </extension>
+    </common>
+  </data-xml>
+  <tags>InstantPHRExternal</tags>
+</thing>
+<thing xmlns:dyn="http://exslt.org/dynamic">
+  <type-id name="Food &amp; drink">089646A6-7E25-4495-AD15-3E28D4C1A71D</type-id>
+  <data-xml>
+    <dietary-intake>
+      <food-item>
+        <text>Wild Salmon in Puff Pastry</text>
+      </food-item>
+      <meal>
+        <text>Other</text>
+        <code>
+          <value>Other</value>
+          <family>iphr-external</family>
+          <type>dietary-intake-meals</type>
+          <version>1.0</version>
+        </code>
+      </meal>
+      <when>
+        <date>
+          <y>2018</y>
+          <m>4</m>
+          <d>2</d>
+        </date>
+      </when>
+      <energy>
+        <calories>1002</calories>
+      </energy>
+      <total-fat>
+        <kg>0.05897</kg>
+        <display units="g">58.97</display>
+      </total-fat>
+      <protein>
+        <kg>0.047170000000000004</kg>
+        <display units="g">47.17</display>
+      </protein>
+      <carbohydrates>
+        <kg>0.06895</kg>
+        <display units="g">68.95</display>
+      </carbohydrates>
+      <sodium>
+        <kg>0.0000025400000000000002</kg>
+        <display units="mg">2.54</display>
+      </sodium>
+    </dietary-intake>
+    <common>
+      <source>phr.getrealhealth.com.external.dietaryintake</source>
+      <client-thing-id></client-thing-id>
+      <extension source="">
+        <foods>
+          <isFavorite>false</isFavorite>
+          <logDate>2018-04-02</logDate>
+          <logId>13947705330</logId>
+          <loggedFood>
+            <accessLevel>PUBLIC</accessLevel>
+            <amount>1</amount>
+            <brand>Deluxe</brand>
+            <calories>1002</calories>
+            <foodId>734617221</foodId>
+            <locale>it_IT</locale>
+            <mealTypeId>3</mealTypeId>
+            <name>Wild Salmon in Puff Pastry</name>
+            <unit>
+              <id>180</id>
+              <name>libbra</name>
+              <plural>libbre</plural>
+            </unit>
+            <units>304</units>
+            <units>226</units>
+            <units>180</units>
+            <units>147</units>
+            <units>389</units>
+          </loggedFood>
+          <nutritionalValues>
+            <calories>1002</calories>
+            <carbs>68.95</carbs>
+            <fat>58.97</fat>
+            <fiber>0</fiber>
+            <protein>47.17</protein>
+            <sodium>2.54</sodium>
+          </nutritionalValues>
+        </foods>
+      </extension>
+      <extension source="phr.getrealhealth.com.external.dietaryintake">
+        <external-data-source></external-data-source>
+      </extension>
+    </common>
+  </data-xml>
+  <tags>InstantPHRExternal</tags>
+</thing><?xml version="1.0" encoding="utf-8" ?> 

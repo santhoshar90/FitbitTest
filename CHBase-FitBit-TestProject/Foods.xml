@@ -1,0 +1,65 @@
+﻿<ListItem  Source="Fitbit">
+  <List>
+    <foods>
+      <isFavorite>false</isFavorite>
+      <logDate>2018-04-02</logDate>
+      <logId>13946134396</logId>
+      <loggedFood>
+        <accessLevel>PUBLIC</accessLevel>
+        <amount>1</amount>
+        <brand></brand>
+        <calories>212</calories>
+        <foodId>532589027</foodId>
+        <locale>it_IT</locale>
+        <mealTypeId>1</mealTypeId>
+        <name>Samosa</name>
+        <unit>
+          <id>2952</id>
+          <name>porzione (61 g)</name>
+          <plural>porzione (61 g)</plural>
+        </unit>
+        <units>2952</units>
+        <units>2339</units>
+        <units>2343</units>
+        <units>226</units>
+        <units>180</units>
+        <units>147</units>
+        <units>389</units>
+      </loggedFood>
+    </foods>
+    <foods>
+      <isFavorite>false</isFavorite>
+      <logDate>2018-04-02</logDate>
+      <logId>13947705330</logId>
+      <loggedFood>
+        <accessLevel>PUBLIC</accessLevel>
+        <amount>1</amount>
+        <brand>Deluxe</brand>
+        <calories>1002</calories>
+        <foodId>734617221</foodId>
+        <locale>it_IT</locale>
+        <mealTypeId>3</mealTypeId>
+        <name>Wild Salmon in Puff Pastry</name>
+        <unit>
+          <id>180</id>
+          <name>libbra</name>
+          <plural>libbre</plural>
+        </unit>
+        <units>304</units>
+        <units>226</units>
+        <units>180</units>
+        <units>147</units>
+        <units>389</units>
+      </loggedFood>
+    </foods>
+    <pagination>
+      <afterDate>2009-03-15T00:00:00</afterDate>
+      <limit>100</limit>
+      <next></next>
+      <offset>1</offset>
+      <previous>https://api.fitbit.com/1/user/-/foods/log/list.json?offset=0&amp;limit=100&amp;sort=asc&amp;afterDate=2009-03-15T00%3A00%3A00</previous>
+      <sort>asc</sort>
+    </pagination>
+  </List>
+</ListItem>
+

@@ -1,0 +1,42 @@
+﻿<thing>
+  <type-id name="BMI">A5033C9D-08CF-4204-9BD3-CB412CE39FC0</type-id>
+  <data-xml>
+    <app-specific>
+      <format-appid>Custom</format-appid>
+      <format-tag>GRH.IPHR.Core.DataManager.AppSpecific.BodyMassIndex</format-tag>
+      <when>
+        <date>
+          <y>2018</y>
+          <m>4</m>
+          <d>2</d>
+        </date>
+        <time>
+          <h>23</h>
+          <m>59</m>
+          <s>59</s>
+        </time>
+      </when>
+      <summary>Body Mass Index</summary>
+      <weight>61</weight>
+      <bmi>21.61</bmi>
+    </app-specific>
+    <common>
+      <source>Fitbit</source>
+      <client-thing-id></client-thing-id>
+      <extension source="Fitbit">
+        <weight>
+          <bmi>21.61</bmi>
+          <date>2018-04-02</date>
+          <logId>1522713599000</logId>
+          <source>API</source>
+          <time>23:59:59</time>
+          <weight>61</weight>
+        </weight>
+      </extension>
+      <extension source="phr.getrealhealth.com.external.bmi">
+        <external-data-source>API</external-data-source>
+      </extension>
+    </common>
+  </data-xml>
+  <tags>InstantPHRExternal</tags>
+</thing>

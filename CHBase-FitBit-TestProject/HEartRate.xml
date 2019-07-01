@@ -1,0 +1,39 @@
+﻿<ItemList  Source="Fitbit">
+  <Item>
+    <activities-heart>
+      <dateTime>2015-08-04</dateTime>
+      <value>
+        <heartRateZones>
+          <caloriesOut>740.15264</caloriesOut>
+          <max>94</max>
+          <min>30</min>
+          <minutes>593</minutes>
+          <name>Out of Range</name>
+        </heartRateZones>
+        <heartRateZones>
+          <caloriesOut>249.66204</caloriesOut>
+          <max>132</max>
+          <min>94</min>
+          <minutes>46</minutes>
+          <name>Fat Burn</name>
+        </heartRateZones>
+        <heartRateZones>
+          <caloriesOut>0</caloriesOut>
+          <max>160</max>
+          <min>132</min>
+          <minutes>0</minutes>
+          <name>Cardio</name>
+        </heartRateZones>
+        <heartRateZones>
+          <caloriesOut>0</caloriesOut>
+          <max>220</max>
+          <min>160</min>
+          <minutes>0</minutes>
+          <name>Peak</name>
+        </heartRateZones>
+        <restingHeartRate>68</restingHeartRate>
+      </value>
+    </activities-heart>
+  </Item>
+</ItemList>
+

@@ -1,0 +1,52 @@
+﻿<thing>
+  <type-id name="Body composition">18adc276-5144-4e7e-bf6c-e56d8250adf8</type-id>
+  <data-xml>
+    <body-composition>
+      <when>
+        <structured>
+          <date>
+            <y>2018</y>
+            <m>4</m>
+            <d>3</d>
+          </date>
+          <time>
+            <h>23</h>
+            <m>59</m>
+            <s>59</s>
+          </time>
+        </structured>
+      </when>
+      <value>
+        <percent-value>14</percent-value>
+      </value>
+      <measurement-name>
+        <text>fat-percent</text>
+        <code>
+          <value>fat-percent</value>
+          <family>wc</family>
+          <type>body-composition-measurement-names</type>
+          <version>1</version>
+        </code>
+      </measurement-name>
+    </body-composition>
+    <common>
+      <source>Fitbit</source>
+      <client-thing-id></client-thing-id>
+      <extension source="Fitbit">
+        <weight>
+          <bmi>23.74</bmi>
+          <date>2018-04-03</date>
+          <fat>14</fat>
+          <logId>1522799999000</logId>
+          <source>API</source>
+          <time>23:59:59</time>
+          <weight>67</weight>
+        </weight>
+      </extension>
+      <extension source="phr.getrealhealth.com.external.bodyfat">
+        <external-data-source>API</external-data-source>
+      </extension>
+    </common>
+    <tags>InstantPHRExternal</tags>
+  </data-xml>
+</thing>

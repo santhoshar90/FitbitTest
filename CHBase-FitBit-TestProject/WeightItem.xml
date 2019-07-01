@@ -1,0 +1,41 @@
+﻿<thing>
+  <type-id name="Weight">3d34d87e-7fc1-4153-800f-f56592cb0d17</type-id>
+  <data-xml>
+    <weight>
+      <when>
+        <date>
+          <y>2018</y>
+          <m>3</m>
+          <d>21</d>
+        </date>
+        <time>
+          <h>23</h>
+          <m>59</m>
+          <s>59</s>
+        </time>
+      </when>
+      <value>
+        <kg>62.5</kg>
+        <display units="kgs">62.5</display>
+      </value>
+    </weight>
+    <common>
+      <source>Fitbit</source>
+      <client-thing-id></client-thing-id>
+      <extension source="Fitbit">
+        <weight>
+          <bmi>22.18</bmi>
+          <date>2018-03-21</date>
+          <logId>1521676799000</logId>
+          <source>API</source>
+          <time>23:59:59</time>
+          <weight>62.5</weight>
+        </weight>
+      </extension>
+      <extension source="phr.getrealhealth.com.external.weight">
+        <external-data-source>API</external-data-source>
+      </extension>
+    </common>
+  </data-xml>
+  <tags>InstantPHRExternal</tags>
+</thing>
